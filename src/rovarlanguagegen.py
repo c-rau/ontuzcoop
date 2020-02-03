@@ -1,4 +1,5 @@
 import test
-test('asd')
+
+test.test('asd')
 print("hejhej")
 print ("Många tack för tårtan")
